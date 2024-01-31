@@ -15,7 +15,7 @@ public class Server {
 
         // Creating the GUI for the server
         JFrame jFrame = new JFrame("Server");
-        jFrame.setSize(400, 400);
+        jFrame.setSize(500, 500);
         jFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
         JLabel jLabelText = new JLabel("Waiting for image from client...");
